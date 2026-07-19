@@ -1,7 +1,5 @@
 # Hi there, I'm Princess Beverly! 👋 🚀
 
-I am a **Computer Science graduate (Cum Laude)** passionate about modern frontend/backend architectures, data science, AI, machine learning, robust system logic, and structured engineering workflows. I love bridging the gap between theoretical computation and building responsive, real-world user interfaces.
-
 I am a **Computer Science graduate (Cum Laude)** driven by system logic, architectural design, and the intersection of data systems, intelligence, and application development. I treat software engineering as a unified ecosystem—building interfaces that interact seamlessly with robust data structures and machine learning models.
 
 ---
