@@ -1,6 +1,6 @@
 # Hi there, I'm Princess Beverly! 👋 🚀
 
-I am a **Computer Science graduate (Cum Laude)** driven by system logic, architectural design, and the intersection of data systems, intelligence, and application development. I treat software engineering as a unified ecosystem—building interfaces that interact seamlessly with robust data structures and machine learning models.
+I am a **Computer Science graduate** driven by system logic, architectural design, and the intersection of data systems, intelligence, and application development. I treat software engineering as a unified ecosystem—building interfaces that interact seamlessly with robust data structures and machine learning models.
 
 ---
 
